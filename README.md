@@ -40,3 +40,7 @@ The frontend runs in the browser, and the backend communicates with the PostgreS
 ## Database
 
 The application uses PostgreSQL to store player information. Create a database named `nba_players` and configure the `players` table before running the application.
+
+## Demo Video
+
+[Watch the NBA Player Explorer demo](https://drive.google.com/file/d/1QdR8ImTbuIdPGvJsImpUB1u40p6jxRDr/view?usp=sharing)
